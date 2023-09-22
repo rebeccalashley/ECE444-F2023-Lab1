@@ -28,3 +28,12 @@ Activity 3:
 (user page with date/time display)
 ![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/d5f63b8b-8dea-45e0-bbd1-faa745f378f7)
 
+Activity 4:
+
+![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/c646b5d5-934a-4d77-bcb3-27c56ef89e2f)
+
+![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/718a12ff-3778-4079-99bf-73ff8b7eaeae)
+
+![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/b009574e-cf8d-4c48-9b38-f202c08b7fe1)
+
+
