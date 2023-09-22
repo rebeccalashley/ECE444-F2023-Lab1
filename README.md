@@ -12,3 +12,12 @@ Activity 2:
 
 ![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/e62408f4-94a6-44ac-9cd8-2f9ca1b3462c)
 
+Activity 3:
+
+![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/feafe3e2-73e8-46fe-bb81-2e567dd961e0)
+
+![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/2be56d91-a704-4fe6-89d7-b8a50cfaee5b)
+
+![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/c94cf349-c5f8-492e-8b53-87761136d26c)
+
+
