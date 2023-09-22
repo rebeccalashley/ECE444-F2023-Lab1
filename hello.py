@@ -7,14 +7,12 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-  return render_template('index.html', current_time=datetime.utcnow())
+  return render_template('index.html')
+  # return render_template('index.html', current_time=datetime.utcnow())
 
 @app.route('/user/<name>')
 def user(name):
   return render_template('user.html', name=name)
-
-bootstrap = Bootstrap(app)
-moment = Moment(app)
 
 @app.errorhandler(404)
 def page_not_found(e):
@@ -23,3 +21,6 @@ def page_not_found(e):
 @app.errorhandler(500)
 def internal_server_error(e):
   return render_template('500.html'), 500
+
+bootstrap = Bootstrap(app)
+moment = Moment(app)
