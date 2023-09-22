@@ -6,8 +6,9 @@ from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
 
-class NameForm(FlaskForm):
+class NameEmailForm(FlaskForm):
   name = StringField('What is your name?', validators=[DataRequired()])
+  email = StringField('What is your UofT Email address?', validators=[DataRequired()])
   submit = SubmitField('Submit')
 
 app = Flask(__name__)
@@ -16,11 +17,15 @@ app.config['SECRET_KEY'] = 'hard to guess string'
 @app.route('/', methods=['GET', 'POST'])
 def index():
   name = None
-  form = NameForm()
+  email = None
+  form = NameEmailForm()
+
   if form.validate_on_submit():
     name = form.name.data
     form.name.data = ''
-  return render_template('index.html', form=form, name=name)
+    email = form.email.data
+    form.email.data = ''
+  return render_template('index.html', form=form, name=name, email=email)
 
 @app.route('/user/<name>')
 def user(name):
