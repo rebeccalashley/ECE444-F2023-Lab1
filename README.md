@@ -20,4 +20,7 @@ Activity 3:
 
 ![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/c94cf349-c5f8-492e-8b53-87761136d26c)
 
+![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/702bac0a-8269-4409-8e00-9c06589e7d7f)
+
+![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/d5f63b8b-8dea-45e0-bbd1-faa745f378f7)
 
