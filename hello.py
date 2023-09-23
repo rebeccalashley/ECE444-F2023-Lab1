@@ -8,7 +8,7 @@ from wtforms.validators import DataRequired, Email, ValidationError
 
 def validate_uoft(form, field):
   if "utoronto" not in field.data:
-    raise ValidationError('Please enter a Uoft email')
+    raise ValidationError('Please enter a UofT email')
 
 class NameEmailForm(FlaskForm):
   name = StringField('What is your name?', validators=[DataRequired()])
