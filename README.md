@@ -30,10 +30,18 @@ Activity 3:
 
 Activity 4:
 
+(commits)
+![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/39362233-fec7-45f3-90ed-7c74cde9b75f)
+
+![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/380bd95a-ada8-40ba-bffc-ef9c4b2d3d68)
+
+(results)
 ![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/c646b5d5-934a-4d77-bcb3-27c56ef89e2f)
 
 ![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/867da8e5-0455-48ff-bbe6-d8fdb3851c81)
 
 ![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/b009574e-cf8d-4c48-9b38-f202c08b7fe1)
 
+![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/2d1c50eb-27e2-4ba7-a6c0-adf800d173cc)
 
+![image](https://github.com/rebeccalashley/ECE444-F2023-Lab1/assets/60635262/ea24d0e6-a4e9-401b-bb04-013fd187671d)
